@@ -1,0 +1,5 @@
+{
+  "key.ecosub.walletkey": "Walletkey",
+  "item.ecosub.wallet": "Wallet",
+  "gui.ecosub.walletgui.label_balans": "Balance: %d coins"
+}

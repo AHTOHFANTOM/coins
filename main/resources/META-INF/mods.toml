@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)" # Совпадает с версией Forge, указать минимальную версию
+license="All Rights Reserved" # Указана лицензия
+
+[[mods]]
+modId="ecosub"
+version="1.0.0"
+displayName="Economy subseasons"
+authors="n1_str, AHTOH_FANTOM"
+description='''Example mod description.
+Newline characters can be used and will be replaced properly.'''
+
+[[dependencies.ecosub]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.ecosub]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,)" # Версия Minecraft
+ordering="NONE"
+side="BOTH"
